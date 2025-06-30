@@ -1,4 +1,5 @@
 Python Packet Sniffer GUI
+
 This project is a simple, Python-based graphical packet sniffer inspired by Wireshark. It leverages Scapy for packet capture and Tkinter for a modern, dark-themed user interface. This tool allows users to capture, inspect, filter, and save packets from their network in real time.
 Features
 
