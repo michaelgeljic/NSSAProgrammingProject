@@ -32,10 +32,10 @@ How It Works
 
 Installation
 
-git clone https://github.com/michaelgeljic/WiresharkRemake.git
-cd WiresharkRemake
-pip install scapy
-python wireshark_remake.py
+    git clone https://github.com/michaelgeljic/WiresharkRemake.git
+    cd WiresharkRemake
+    pip install scapy
+    python wireshark_remake.py
 
 Note: You may need to run the script with administrative/root privileges to allow packet sniffing.
 Usage
